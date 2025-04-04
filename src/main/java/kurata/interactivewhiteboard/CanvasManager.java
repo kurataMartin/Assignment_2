@@ -1,7 +1,6 @@
 package kurata.interactivewhiteboard;
 
 import javafx.embed.swing.SwingFXUtils;
-import javafx.geometry.Pos;
 import javafx.scene.Cursor;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;
